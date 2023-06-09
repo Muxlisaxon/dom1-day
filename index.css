@@ -1,0 +1,21 @@
+body {
+    background: plum;
+}
+
+.logo {
+    margin-top: 150px;
+    color: white;
+}
+
+#form_select {
+    width: 70px;
+}
+
+#btn1 {
+    border: 2px solid white;
+    background: plum;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
